@@ -44,7 +44,7 @@
   config['site'] = "https://domain.com/pic"; //图片直连提供的文件位置，不包含文件名。比如你上传后的文件叫123.png。上传后直连就是https://domain.com/pic/123.png
 ```
 
-##### 2.config.php
+##### 2）config.php
 
 ```php
   "servername" => "localhost",    //数据库服务器地址
